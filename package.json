@@ -1,0 +1,13 @@
+{
+  "name": "@instun/semaphore",
+  "version": "1.0.0",
+  "description": "A async semaphore module for fibjs, nodejs, browser and react native",
+  "repository": "https://github.com/Instun/semaphore",
+  "main": "lib/index.js",
+  "keywords": "",
+  "author": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
