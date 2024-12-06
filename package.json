@@ -1,11 +1,25 @@
 {
   "name": "@instun/semaphore",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A async semaphore module for fibjs, nodejs, browser and react native",
-  "repository": "https://github.com/Instun/semaphore",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Instun/semaphore"
+  },
   "main": "lib/index.js",
-  "keywords": "",
-  "author": "",
+  "keywords": [
+    "semaphore",
+    "async",
+    "concurrency",
+    "lock",
+    "mutex",
+    "synchronization",
+    "fibjs",
+    "nodejs",
+    "browser",
+    "react-native"
+  ],
+  "author": "Instun <i@instun.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
